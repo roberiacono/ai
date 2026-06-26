@@ -6,7 +6,7 @@ Stable tag:        1.0.2
 License:           GPL-2.0-or-later
 License URI:       https://spdx.org/licenses/GPL-2.0-or-later.html
 
-AI features, experiments and capabilities for WordPress.
+AI features, experiments and capabilities for WordPress. 
 
 == Description ==
 
